@@ -104,4 +104,4 @@ require (
 )
 
 // Review dependency: replace with an upstream version containing the OS fix before merging.
-replace github.com/chaosblade-io/chaosblade-exec-os => github.com/xirs/chaosblade-exec-os v0.0.0-20260916135326-9ccd111a9466
+replace github.com/chaosblade-io/chaosblade-exec-os => github.com/xirs/chaosblade-exec-os v0.0.0-20260916230352-a8a596e551db

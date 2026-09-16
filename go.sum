@@ -195,8 +195,8 @@ github.com/tklauser/go-sysconf v0.3.15 h1:VE89k0criAymJ/Os65CSn1IXaol+1wrsFHEB8O
 github.com/tklauser/go-sysconf v0.3.15/go.mod h1:Dmjwr6tYFIseJw7a3dRLJfsHAMXZ3nEnL/aZY+0IuI4=
 github.com/tklauser/numcpus v0.10.0 h1:18njr6LDBk1zuna922MgdjQuJFjrdppsZG60sHGfjso=
 github.com/tklauser/numcpus v0.10.0/go.mod h1:BiTKazU708GQTYF4mB+cmlpT2Is1gLk7XVuEeem8LsQ=
-github.com/xirs/chaosblade-exec-os v0.0.0-20260916135326-9ccd111a9466 h1:C74fxIpWRl+3RsHCbyLjg7dNeGgSRFvdmvUqOU7YXEA=
-github.com/xirs/chaosblade-exec-os v0.0.0-20260916135326-9ccd111a9466/go.mod h1:k6QrG3w8mEwvk/6CCGC+K1S+K8u0s1xfHoa/dOGdADo=
+github.com/xirs/chaosblade-exec-os v0.0.0-20260916230352-a8a596e551db h1:sndUFuqme4MVJ05BRXOoAeTocFBr8q4zBHTxTh7nBtM=
+github.com/xirs/chaosblade-exec-os v0.0.0-20260916230352-a8a596e551db/go.mod h1:k6QrG3w8mEwvk/6CCGC+K1S+K8u0s1xfHoa/dOGdADo=
 github.com/yuin/goldmark v1.1.27/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=
 github.com/yusufpapurcu/wmi v1.2.4 h1:zFUKzehAFReQwLys1b/iSMl+JQGSCSjtVqQn9bBrPo0=
